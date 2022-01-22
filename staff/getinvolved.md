@@ -80,7 +80,7 @@ list of our most active repos, with some examples of they're used for:
     ([PR #373][puppet-373])
   - Monitor our mirrors to see if they’re out of date
     ([healthcheck script][mirror-healthcheck],
-    [configuring server to call the healtcheck
+    [configuring server to call the healthcheck
     script][mirror-healthcheck-puppet],
     [Monitoring rules for alerting][prometheus-mirror])
   - Monitor printers to see if they’re out of paper, toner, or jammed
@@ -214,7 +214,7 @@ community.
 [getinvolved-src]: https://github.com/ocf/ocfweb/blob/master/ocfweb/docs/docs/staff/getinvolved.md
 [ircbot/issues]: https://github.com/ocf/ircbot/issues
 [ircbot]: https://github.com/ocf/ircbot
-[mirror-healthcheck-puppet]: ️https://github.com/ocf/puppet/blob/master/modules/ocf_mirrors/manifests/monitoring.pp
+[mirror-healthcheck-puppet]: https://github.com/ocf/puppet/blob/master/modules/ocf_mirrors/manifests/monitoring.pp
 [mirror-healthcheck]: https://github.com/ocf/puppet/blob/master/modules/ocf_mirrors/files/healthcheck
 [ocf-github]: https://github.com/ocf
 [ocf-github-issues]: https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+archived%3Afalse+user%3Aocf+
