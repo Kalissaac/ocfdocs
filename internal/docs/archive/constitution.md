@@ -381,7 +381,7 @@ facilities.
 
 If the organization is ASUC or GA Sponsored, all unspent ASUC funds shall
 return to the ASUC; all Graduate Assembly funds shall return to the Graduate
-Assembly. If the organization is defunct for five (5) or more years, any
+Assembly. If the organization is defunct for five (5) or more years, any
 privately obtained funds (including any funds left in miscellaneous accounts)
 shall be donated to the following nonprofit organization: [The Electronic
 Frontier Foundation](https://www.eff.org/about).

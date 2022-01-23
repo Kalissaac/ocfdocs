@@ -2,8 +2,11 @@
 title: "Bylaws"
 ---
 
+[[!meta title="Bylaws"]]
+
+
 These are the official **Bylaws of the Open Computing Facility**, as last
-amended at the Board meeting of December 2, 2019.
+amended at the Board meeting of November 17, 2021.
 
 1. [Repealed]
 
@@ -19,10 +22,13 @@ amended at the Board meeting of December 2, 2019.
 
 5. Resolutions by the Board of Directors can be put to a vote electronically.
    When putting a resolution to the Board in this manner, all Board members
-   must be included in the request for votes. To pass an issue this way, at
-   least half of all the Board members must agree. If the motion fails to
-   achieve a majority within seventy-two hours of being called to such a vote,
-   the motion fails. The results of the vote will be posted in roll call form.
+   must be included in the request for votes. To pass an issue this way,
+   either at least half of all the Board members agree, or, quorum is achieved
+   and a majority of voting Board members agree after allowing a period of
+   forty-eight hours for Board members to vote. If the motion fails to achieve
+   quorum with a majority of voting Board members agreeing after forty-eight
+   hours of being called to such a vote, the motion fails. The results of the
+   vote will be posted in roll call form.
 
 6. Attendance lists and minutes for all OCF meetings shall be maintained for
    the decisions of that meeting to be valid.
@@ -45,63 +51,57 @@ amended at the Board meeting of December 2, 2019.
 
 12. Deputy Site Managers
 
-13. Deputy Site Managers shall be appointed and removed by the Site Manager,
-    subject to the OCF Decision Making Process.
+   1. Deputy Site Managers shall be appointed and removed by the Site Manager,
+      subject to the OCF Decision Making Process.
 
-14. Deputy Site Managers shall assist the Site Manager with his or her
-    duties.
+   2. Deputy Site Managers shall assist the Site Manager with their duties.
 
-15. The term of office of a Deputy Site Manager shall expire at the beginning
-    of a new term of a Site Manager.
+   3. The term of office of a Deputy Site Manager shall expire at the beginning
+      of a new term of a Site Manager.
 
-16. [Repealed]
+   4. [Repealed]
 
-17. Officers
+13. Officers
 
-18. All Cabinet members shall be Officers of the Open Computing Facility.
+   1. All Cabinet members shall be Officers of the Open Computing Facility.
 
-19. Any non-Director member who attends a Board meeting can request to be
+14. Any non-Director member who attends a Board meeting can request to be
     appointed as a Director at that meeting. In that case, they shall be
     automatically appointed unless at the same meeting a Director moves for a
     vote on their appointment, in which case the candidate will be appointed
     unless more than three-fifths of Directors present vote against their
     appointment.
 
-20. The Board of Directors may select and recall a Faculty Sponsor for the OCF.
+15. The Board of Directors may select and recall a Faculty Sponsor for the OCF.
 
-21. During the final meeting of each Fall and Spring semester, each Director
+16. During the final meeting of each Fall and Spring semester, each Director
     will be asked to confirm their ability to serve as a Director during the
     following Fall semester or Spring semester. Directors who do not confirm or
     are not present will be removed from the Board.
 
-22. Any director who is banned from the OCF or has their account disabled due
+17. Any director who is banned from the OCF or has their account disabled due
     to misuse will be removed from the board and is not eligible for
     membership on the Board of Directors.
 
-23. Committees
+18. Committees
 
-    1. The Board of Directors includes the following permanent committees:
+    1. The Board of Directors includes the following permanent committees in no particular order:
 
-       1. The University Affairs Committee manages relationships between the
-          OCF and other entities within UC Berkeley, such as the ASUC, the
-          Graduate Assembly, the LEAD Center, the ASUC Student Union, IST, and
-          other campus administrators and student organizations.
+       1. The Internal Committee promotes the interests of staff within the
+          OCF and empowers staff to make meaningful contributions to the OCF,
+          including training and onboarding. The Internal Committee is
+          responsible for communicating with staff members.
 
-       2. The Internal Committee promotes the interests of staff within the
-          OCF and empowers staff to make meaningful contributions to the OCF.
+       2. The External Committee promotes OCF services and events to the broader
+          campus community as appropriate, and manages relationships with companies,
+          OCF alumni, and other individuals or groups that are external to
+          UC Berkeley, and manages OCF public relations and image.
 
-       3. The Industry and Alumni Relations Committee manages relationships
-          with companies, OCF alumni, and other individuals or groups that are
-          external to UC Berkeley.
+       3. The Finance Committee oversees the finances of the OCF and  ensures
+          that the OCF is adequately funded. The Finance Committee should also
+          routinely explore funding opportunities.
 
-       4. The Finance Committee oversees the finances of the OCF and ensures
-          that the OCF is adequately funded.
-
-       5. The Communication Committee keeps OCF staff up to date with
-          happenings in the organization and promotes OCF services and events
-          to the broader campus community as appropriate.
-
-       6. The DeCal Committee runs the Linux System Administration DeCal.
+       4. The DeCal Committee runs the Linux System Administration DeCal.
 
     2. Additional committees may be established on an ad-hoc basis by the OCF
        Decision Making Process.
@@ -110,10 +110,7 @@ amended at the Board meeting of December 2, 2019.
        Directors meeting in the Fall and Spring semester, with the following
        exceptions:
 
-       1. The University Affairs Committee is headed by the General Managers,
-          and an election for University Affairs Committee head will not be held.
-
-       2. Election dates for heads to the DeCal Committee and ad-hoc
+       1. Election dates for heads to the DeCal Committee and ad-hoc
           committees may be set by the OCF Decision Making Process. Election
           dates may not be set for fewer than 14 days in the future. Elections
           must be announced to all Board members at least 14 days in advance.
@@ -122,6 +119,30 @@ amended at the Board meeting of December 2, 2019.
        the end of the semester in which they were elected. The terms of ad-hoc
        committees heads will be specified according to the OCF Decision Making
        Process.
+
+    5. Each committee is required to maintain and follow a runbook which
+       enlists specific responsibilities of that committee as well as all
+       tasks needed to run said committee.
+
+19. Board Budget
+
+   1. The Board of Directors may approve a semesterly budget that authorizes
+      committees to spend funds according to the committee’s purpose as defined
+      by bylaw.
+
+   2. A committee may spend funds only upon approval by a committee head and a
+      Director who is not a head of said committee.
+
+   3. A committee head’s approval is void if there is a Director who makes
+      their dissent known in a forum available to all directors within forty
+      eight (48) hours of the approval, and that Director has not given their
+      approval.
+
+   4. Transactions of at least $100 require approval from the Board of
+      Directors.
+
+   5. The Finance Committee may upon approval by the Board of Directors add
+      additional restrictions to the use of committee budgets.
 
 Bylaws 1–4 amended at the general meeting of March 21, 2008. Bylaws 5–6 from
 the revision of the bylaws last amended February 7, 1995. Bylaw 8 added at the
@@ -136,4 +157,7 @@ amended at the Board meeting of February 26, 2018. Bylaws 7 and 14 amended and
 bylaw 16 added at the Board meeting of November 4, 2019. Bylaw 7 amended and
 bylaw 17 added at the Board meeting of November 18, 2019. Bylaws 9.1 and 13.1
 amended, bylaws 10, 11, and 12.4 repealed, and bylaw 18 added at the Board
-meeting of December 2, 2019.
+meeting of December 2, 2019. Bylaw 12.2 amended and bylaws 18.1.7, 18.3.3,
+and 19 added at the Board meeting of September 9, 2020. Bylaws 18.1.8 and
+18.3.2 added at the Board meeting of April 13, 2021. Bylaw 5 and 18 amended
+at the Board meeting of November 17, 2021.
