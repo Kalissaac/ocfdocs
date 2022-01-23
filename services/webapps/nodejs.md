@@ -65,6 +65,6 @@ supervise your app (so that it starts and restarts automatically).
 ## Suggestions/improvements?
 
 If you have a better way to host Node.js-based apps on the app server (or a
-suggestion for how we could improve this documentation), [send us an email](/docs/contact)!
+suggestion for how we could improve this documentation), [send us an email](/docs/internal/contact)!
 
 [nvm-github]: https://github.com/creationix/nvm

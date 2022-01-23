@@ -140,7 +140,7 @@ for more options.
 
 ### Can you install a package on the app server?
 
-Probably. [Send us an email](/docs/contact), and be sure to provide the name of
+Probably. [Send us an email](/docs/internal/contact), and be sure to provide the name of
 the [Debian package][dpkg] you want us to install. Keep in mind we'll probably
 be installing the stable version of the package, so it might be old.
 

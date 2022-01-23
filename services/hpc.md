@@ -33,10 +33,10 @@ connect to our Slurm master node via SSH by running the following command:
 ssh my_ocf_username@hpcctl.ocf.berkeley.edu
 ```
 
-If you have trouble connecting please [contact us](/docs/contact) at
+If you have trouble connecting please [contact us](/docs/internal/contact) at
 [help@ocf.berkeley.edu](mailto:help@ocf.berkeley.edu), or come to
 [staff hours](/staff-hours) when the lab is open and chat with us in person.
-We also have a #hpc_users channel on [slack][fco] and [irc](/docs/contact/irc)
+We also have a #hpc_users channel on [slack][fco] and [irc](/docs/internal/contact/irc)
 where you can ask questions and talk to us about anything HPC.
 
 ## The Cluster

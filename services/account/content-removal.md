@@ -35,7 +35,7 @@ associated with their OCF account. If the website in question is
 <username>@ocf.berkeley.edu.
 
 If repeated attempts to contact the owner of the account have failed,
-you may [contact us](/docs/contact) and request the website be
+you may [contact us](/docs/internal/contact) and request the website be
 disabled due to inactivity. If we attempt to contact the website owner
 and fail to get a response, we may disable their account as per our
 [account policies](/docs/services/account/account-policies).

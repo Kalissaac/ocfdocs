@@ -54,7 +54,7 @@ Board of Directors, and the general public is welcome to attend BoD Meetings.
 The OCF is located on the ground floor of MLK Student Union. For hours and a
 map, see [here](/docs/services/lab).
 
-If you need to contact OCF staff members, you may [send us an email](/docs/contact)
+If you need to contact OCF staff members, you may [send us an email](/docs/internal/contact)
 
 The Open Computing Facility is a student group acting independently of the
 University of California. We take full responsibility for our organization and

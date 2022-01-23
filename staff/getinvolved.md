@@ -131,7 +131,7 @@ If you’re feeling particularly adventurous, you can [search for the string
 
 #### Help requests
 
-During the semester, our [help@ocf.berkeley.edu mailing list](/docs/contact)
+During the semester, our [help@ocf.berkeley.edu mailing list](/docs/internal/contact)
 gets around 14 emails per week from the UC Berkeley community. Volunteers like
 you respond to these emails. Most requests are about requesting virtual hosting
 and helping users debug or fix their websites. If you’re interested in seeing
@@ -169,7 +169,7 @@ attending staff hours can serve multiple purposes:
 ### Slack or IRC
 
 OCF staff often communicate on Slack or IRC. For instructions on how to join
-Slack, see [ocf.io/slack][slack]. See [IRC docs](/docs/contact/irc) for how to
+Slack, see [ocf.io/slack][slack]. See [IRC docs](/docs/internal/contact/irc) for how to
 join IRC. Slack and IRC are bridged together, so joining either one lets you
 participate in the same discussions. Some important channels:
 

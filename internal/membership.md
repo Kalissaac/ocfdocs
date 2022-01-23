@@ -29,7 +29,7 @@ title: "Joining the OCF"
 You will be prompted to log in with CalNet. Then follow the instructions to
 make your request. Your account name must be based on your real name.
 
-Feel free to [contact us](/docs/contact) if you experience difficulties in the
+Feel free to [contact us](/docs/internal/contact) if you experience difficulties in the
 request or you have questions.
 
 Then, wait for your account to be created. (below)

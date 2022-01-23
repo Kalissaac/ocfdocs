@@ -3,7 +3,7 @@ title: "Slack"
 ---
 
 We also offer IRC as a chat service. If that is what you were looking for, head
-over to [our page on IRC](/docs/contact/irc).
+over to [our page on IRC](/docs/internal/contact/irc).
 
 ### Join the OCF Slack Workspace
 
@@ -31,7 +31,7 @@ over to [our page on IRC](/docs/contact/irc).
 #### Everything is public
 
 When using Slack, please keep in mind that the channels are connected to our
-[IRC server](/docs/contact/irc), which is open to the whole world. Anyone could
+[IRC server](/docs/internal/contact/irc), which is open to the whole world. Anyone could
 be keeping a log of what is said, so please don't say anything that you wouldn't
 want to be public!
 

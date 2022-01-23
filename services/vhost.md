@@ -37,7 +37,7 @@ of the virtual-hosted site (`yourgroup.berkeley.edu`).
     placeholder.
 3.  **Include OCF hosting banner.** Place a [Hosted by OCF banner](/docs/services/vhost/badges) on your home page that links to the OCF front
     page. If none of these images are appropriate for your site, you may
-    design one of your own and [submit it](/docs/contact) for approval.
+    design one of your own and [submit it](/docs/internal/contact) for approval.
 4.  **Include university's disclaimer (if applicable).** If you are a student
     group, place the university-mandated student group disclaimer on each page
     of your website (see the section below).

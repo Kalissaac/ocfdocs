@@ -78,7 +78,7 @@ You have two choices:
   email). We'll provide a separate email for you to use instead to send in
   your documentation.
 
-- **Option 2 (postal mail).** Mail your documentation to our [mailing address](/docs/contact#index6h2). Expect a delay of at least 2-3 weeks,
+- **Option 2 (postal mail).** Mail your documentation to our [mailing address](/docs/internal/contact#index6h2). Expect a delay of at least 2-3 weeks,
   possibly longer over summer.
 
 For security purposes, please include the following with your request:
@@ -126,7 +126,7 @@ so.
 
 To re-enable your account, you will need to see a Manager during [staff hours](/staff-hours).
 
-If you want to disable your OCF account, please [contact us](/docs/contact) and
+If you want to disable your OCF account, please [contact us](/docs/internal/contact) and
 provide your OCF username. If your account appears to still be active, we may
 ask for some evidence that you are the account owner. Currently, disabled
 accounts are stored or archived and can be _re-enabled_ by request at a later

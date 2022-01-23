@@ -78,6 +78,6 @@ and then running `systemctl --user daemon-reload`. After that, you can use
 ## Suggestions/improvements?
 
 If you have a better way to host Python-based apps on the app server (or a
-suggestion for how we could improve this documentation), [send us an email](/docs/contact)!
+suggestion for how we could improve this documentation), [send us an email](/docs/internal/contact)!
 
 [lol-syntax]: https://stackoverflow.com/a/25611194

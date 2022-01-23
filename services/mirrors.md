@@ -14,7 +14,7 @@ We are also available at `mirrors.berkeley.edu`, as an alias for
 `mirrors.ocf.berkeley.edu`.
 
 To request for another project to be mirrored or to report a problem with our
-mirroring service, please [contact us](/docs/contact).
+mirroring service, please [contact us](/docs/internal/contact).
 
 ## Currently mirrored projects
 
