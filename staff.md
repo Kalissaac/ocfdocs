@@ -1,5 +1,6 @@
 ---
 title: "Staff"
+template: "docs/staff_index.html"
 ---
 
 Find out what we're all about, and [come join us](/docs/staff/getinvolved)!

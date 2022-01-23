@@ -23,11 +23,11 @@ and you can unsubscribe at any time.
 
 ### In-person meetings
 
-We hold two meetings every Monday:
+We hold two meetings every Wednesday:
 
 #### Board of Directors (BoD)
 
-**Wednesday 8-9pm**
+**Wednesday 7-8pm**
 
 The OCF Board of Directors has open meetings from 8-9 pm every Wednesday. BoD is
 where we discuss and vote on administrative decisions. If you are interested in
@@ -36,7 +36,7 @@ perspective, please come to BoD meetings! Meetings always are open to all.
 
 #### Staff Meeting
 
-**Mondays 8-9pm**
+**Wednesday 8-9pm**
 
 In these meetings, all OCF staff (that includes you!) get together to discuss
 technology, learn from each other, and work on OCF projects. These meetings will
@@ -166,16 +166,17 @@ attending staff hours can serve multiple purposes:
 - Get context and more information on a particular area you’re interested
   in contributing in
 
-### Slack or IRC
+### Slack, Discord, Matrix, or IRC
 
-OCF staff often communicate on Slack or IRC. For instructions on how to join
-Slack, see [ocf.io/slack][slack]. See [IRC docs](/docs/internal/contact/irc) for how to
-join IRC. Slack and IRC are bridged together, so joining either one lets you
-participate in the same discussions. Some important channels:
+OCF staff often communicate on [Slack](https://ocf.io/slack),
+[Discord](https://ocf.io/discord), [Matrix](https://chat.ocf.berkeley.edu),
+or [[IRC|doc contact/irc]]. These chat services are bridged together,
+so joining any of them lets you participate in the same discussions.
+Some important channels:
 
-- #rebuild - technical discussion
-- #administrivia - non-technical discussion
-- #ocf for off-topic, non-OCF related discussion
+   * #rebuild - technical discussion
+   * #administrivia - non-technical discussion
+   * #ocf for off-topic, non-OCF related discussion
 
 These channels are typically very active, and you shouldn’t feel the need to
 read every line to stay updated. You also aren’t required to understand all the
@@ -202,8 +203,8 @@ what was covered. You can also ask a veteran staffer to bring you up to speed.
 
 You can still be part of OCF staff! Even if you can't make meetings, the
 suggestions on this page are useful for getting started. Staying in touch
-by being active in Slack/IRC and email are great ways to be part of the OCF
-community.
+by being active in Slack/Discord/Matrix/IRC and email are great ways to be
+part of the OCF community.
 
 [account-chpass]: https://github.com/ocf/ocfweb/blob/master/ocfweb/account/chpass.py
 [account-register]: https://github.com/ocf/ocfweb/blob/master/ocfweb/account/register.py

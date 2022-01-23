@@ -13,11 +13,15 @@ running `virsh undefine hozer-{num}` to remove the VM and `lvremove /dev/vg/hoze
 ## Step 0. Pick a hostname and IP
 
 If you are creating a brand-new host, you can find a list of IP addresses
-already in use in our [DNS repo on GitHub][github-ip-list]. Hostnames must be
-based on (un)natural disasters; check out `~staff/server_name_ideas` if you're
-having trouble thinking of one.
+already in use in our [DNS repo on GitHub][github-ip-list]. There is also [a
+spreadsheet of currently used IPs][ips-sheet] containing more information,
+although this may not always be up to date. Hostnames must be based on
+(un)natural disasters; check out `~staff/server_name_ideas` if you're having
+trouble thinking of one.
 
 [github-ip-list]: https://github.com/ocf/dns/blob/master/etc/zones/db.226.229.169.in-addr.arpa
+[ips-sheet]: https://ocf.io/s/ips
+
 
 ## Step 1. (New hosts only) Add to LDAP, DNS, Puppet, Kerberos
 

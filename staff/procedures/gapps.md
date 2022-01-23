@@ -25,6 +25,7 @@ Making a new account requires Google Admin privileges:
    press the '+' button.
 2. Fill in the first and last name of the user, and make sure their email
    address matches their OCF username.
-3. Update the user's `mail` attribute in LDAP to use Google Apps: `kinit you/admin uid=usernamehere`. Change it to `usernamehere@g.ocf.berkeley.edu`.
+3. Update the user's `mail` attribute in LDAP to use Google Apps: `kinit
+you/admin uid=usernamehere`. Change it to `usernamehere@g.ocf.berkeley.edu`.
    **The `g.` in the domain is critical; omitting it can cause email delivery
    loops in our system!**
