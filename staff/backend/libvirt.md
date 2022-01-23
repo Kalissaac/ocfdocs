@@ -50,7 +50,8 @@ of time to the shutdown command, so users have adequate warning.
 
 On the hypervisor, run `sudo virsh autostart <vm-name>`.
 
-You can list which VMs are set to autostart with `sudo virsh list --all --autostart`.
+You can list which VMs are set to autostart with `sudo virsh list --all
+--autostart`.
 
 Firestorm is set to autostart because it must be running in order for any staff
 to log in (other than by using the root account). Other VMs are not set to
@@ -138,21 +139,8 @@ and for vCPUs:
 
 ### How do I edit my VM's disk size?
 
-Find the lvm vg
-
-    virsh dumpxml <vm> | grep -C3 path
-
-On the hypervisor,
-
-    virsh dominfo <vm>
-    virsh domblkinfo <vm>
-    lvextend /dev/vg/<vm> -L20G
-    virsh blockresize <vm> /dev/vg/<vm> 20G
-
-On the vm,
-
-    fdisk /dev/vda        # if needed, very carefully
-    partprobe /dev/vda1
-    resize2fs /dev/vda1
-
-If you'd like to shrink a partition on-line, see [Unix SE](https://unix.stackexchange.com/questions/226872/how-to-shrink-root-filesystem-without-booting-a-livecd#227318).
+There's [a full guide for this in the docs](/docs/staff/procedures/live-resize)
+with step-by-step instructions for how to live-resize your VM to have _more_
+disk size. However, if you'd instead like to _shrink_ a partition on-line, see
+[this Unix SE answer](https://unix.stackexchange.com/a/227318). It's much more
+complicated (and a rarer procedure) to shrink a VM's disk than increase it.
