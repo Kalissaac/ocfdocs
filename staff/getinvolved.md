@@ -188,7 +188,7 @@ attending staff hours can serve multiple purposes:
 
 OCF staff often communicate on [Slack](https://ocf.io/slack),
 [Discord](https://ocf.io/discord), [Matrix](https://chat.ocf.berkeley.edu),
-or [[IRC|doc contact/irc]]. These chat services are bridged together,
+or [IRC](/docs/internal/contact/irc). These chat services are bridged together,
 so joining any of them lets you participate in the same discussions.
 Some important channels:
 
